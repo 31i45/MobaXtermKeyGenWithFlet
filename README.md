@@ -4,6 +4,9 @@
 
 缺点，flet 不能设置应用左上角的 logo，打包成的 Windows 应用比较大。
 
+<img width="1752" height="854" alt="屏幕截图 2025-09-15 173756" src="https://github.com/user-attachments/assets/f78180bd-415f-4202-a6e6-84269fdca6ac" />
+
+
 ## 安装依赖
 ```bash
 pip install flet
@@ -17,4 +20,5 @@ python .\mobaxterm_keygen_flet.py
 ## 打包成可执行文件
 ```bash
 pyinstaller --clean MobaXterm_keygen_flet.spec
+
 ```
